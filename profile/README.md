@@ -104,18 +104,18 @@ We are a strategic engineering unit. We don't consult &mdash; we deploy. Every s
 ## <samp>02 // OPERATIONAL PROTOCOL</samp>
 
 ```
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│                 │     │                 │     │                 │     │                 │
-│  01 ─ DISCOVER  │────▶│  02 ─ ARCHITECT │────▶│  03 ─ FORGE    │────▶│  04 ─ LAUNCH   │
-│                 │     │                 │     │                 │     │                 │
-│  Deep-dive into │     │  System design  │     │  Two-week       │     │  Zero-downtime  │
-│  systems. Map   │     │  & blueprinting.│     │  sprints.       │     │  deployment.    │
-│  technical debt, │     │  Every variable │     │  Continuous     │     │  Permanent      │
-│  identify attack │     │  calculated &   │     │  CI/CD. Working │     │  telemetry &    │
-│  vectors, define │     │  validated      │     │  code delivered │     │  live monitoring.│
-│  success metrics.│     │  against peak   │     │  relentlessly.  │     │  Algorithmic    │
-│                 │     │  load scenarios. │     │                 │     │  optimization.  │
-└─────────────────┘     └─────────────────┘     └─────────────────┘     └─────────────────┘
+┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
+│                  │     │                  │     │                  │     │                  │
+│  01 ─ DISCOVER   │────▶│  02 ─ ARCHITECT  │────▶│  03 ─ FORGE      │────▶│  04 ─ LAUNCH     │
+│                  │     │                  │     │                  │     │                  │
+│  Deep-dive into  │     │  System design   │     │  Two-week        │     │  Zero-downtime   │
+│  systems. Map    │     │  & blueprinting. │     │  sprints.        │     │  deployment.     │
+│  technical debt, │     │  Every variable  │     │  Continuous      │     │  Permanent       │
+│  identify attack │     │  calculated &    │     │  CI/CD. Working  │     │  telemetry &     │
+│  vectors, define │     │  validated       │     │  code delivered  │     │  live monitoring.│
+│  success metrics.│     │  against peak    │     │  relentlessly.   │     │  Algorithmic     │
+│                  │     │  load scenarios. │     │                  │     │  optimization.   │
+└──────────────────┘     └──────────────────┘     └──────────────────┘     └──────────────────┘
 ```
 
 <br>
